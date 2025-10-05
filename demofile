@@ -16,7 +16,7 @@ pipeline {
         stage('Test') {
             steps {
                 // Run tests if applicable
-                echo "Hello2"
+                echo "Hello25"
             }
         }
         }
