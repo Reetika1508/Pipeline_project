@@ -20,9 +20,7 @@ pipeline {
             }
         }
         }
-    }
     
-
     post {
         success {
             // This block will be executed if the pipeline runs successfully
